@@ -1,3 +1,3 @@
-Here **I** post my programs, which I do for **fun!**
+Here I post my programs, which I do for **fun**!
 ***
-[PYTHON](https://github.com/xzxADIxzx/MyPy/blob/master/PyIcon.png) 
+[PYTHON](https://raw.githubusercontent.com/xzxADIxzx/MyPy/master/PyIcon.png) 
